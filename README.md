@@ -37,3 +37,8 @@ Building modern web applications from frontend to backend, focusing on performan
     <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=flat-square&logo=telegram&logoColor=white"/>
   </a>
 </p>
+
+---
+
+## 📊 GitHub Activity
+![DzaaXLife's Activity Graph](https://activity-graph.herokuapp.com/graph?username=DzaaXLife&theme=react-dark)
