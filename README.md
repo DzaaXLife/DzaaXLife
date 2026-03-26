@@ -40,5 +40,5 @@ Building modern web applications from frontend to backend, focusing on performan
 
 ---
 
-## 📊 GitHub Activity
-![DzaaXLife's GitHub stats](https://github-readme-stats.vercel.app/api?username=DzaaXLife&show_icons=true&theme=react-dark))
+## 📊 GitHub Stats
+![DzaaXLife's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DzaaXLife&show_icons=true&theme=react-dark)
