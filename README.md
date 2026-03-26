@@ -49,4 +49,4 @@ Building modern web applications from frontend to backend, focusing on performan
 
 ## ✍️ Current Mood
 
-![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=Coding%20Hard%20or%20Going%20Home)
+![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=Coding%20Hard%20%20%20Home.)
