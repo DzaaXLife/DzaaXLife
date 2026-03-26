@@ -41,4 +41,4 @@ Building modern web applications from frontend to backend, focusing on performan
 ---
 
 ## 📊 GitHub Activity
-![DzaaXLife's Activity Graph](https://activity-graph.herokuapp.com/graph?username=DzaaXLife&theme=react-dark)
+![DzaaXLife's GitHub stats](https://github-readme-stats.vercel.app/api?username=DzaaXLife&show_icons=true&theme=react-dark))
