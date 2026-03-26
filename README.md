@@ -1,4 +1,4 @@
-![Header]([./github-header-banner.jpg])
+![Header]([./github-header-banner.png])
 # 👨‍💻 DzaaXlife
 
 ## About Me
